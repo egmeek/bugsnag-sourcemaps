@@ -1,3 +1,4 @@
 .bugsnagrc
 coverage
 node_modules
+*.swp
